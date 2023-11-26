@@ -1,16 +1,17 @@
-### Hi there 👋
+**Portfolio**
+**Name** : *Malek Altaf*
+**Email** : *malekaltafn@gmail.com*
+**Phone** : *+91-7048142829*
 
-<!--
-**malekaltaf/malekaltaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Repo List**
 
-Here are some ideas to get you started:
+**Android Project Repo**
+ - [Android Sample](https://github.com/malekaltaf/android_samples)
+ - [Android Project](https://github.com/malekaltaf/android_projects)
+ - [Android Studio](https://github.com/malekaltaf/android_studio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Language Repo**
+
+ - [Java](https://github.com/malekaltaf/Java)
+ - [Python](https://github.com/malekaltaf/Python)
+ - [Kotlin](https://github.com/malekaltaf/kotlin)
