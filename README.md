@@ -8,6 +8,11 @@
 
 **Repo List**
 
+**Flutter Project Repo**
+ - [Flutter Rest Api](https://github.com/malekaltaf/Flutter_REST)
+ - [Flutter Sqflite CRUD](https://github.com/malekaltaf/flutter_sqflite)
+ - [Flutter MVVM](https://github.com/malekaltaf/MVVM_Flutter)
+
 **Android Project Repo**
  - [Android Sample](https://github.com/malekaltaf/android_samples)
  - [Android Project](https://github.com/malekaltaf/android_projects)
@@ -18,7 +23,3 @@
  - [Python](https://github.com/malekaltaf/Python)
  - [Kotlin](https://github.com/malekaltaf/kotlin)
 
-
-**Flutter Project Repo**
- - [Flutter Rest Api](https://github.com/malekaltaf/Flutter_REST)
- - [Flutter Sqflite CRUD](https://github.com/malekaltaf/flutter_sqflite)
