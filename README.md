@@ -7,6 +7,16 @@
 
 ---
 
+## **Experience**
+
+### **Android Developer at Vama Communication Pvt Ltd**
+Experienced Android developer with over 1.5 years of expertise in crafting native Android applications using Kotlin and Java.
+
+### **IT Administrator at NEPC**
+6 months of experience as an IT Administrator at NEPC.
+
+---
+
 ## **Repo List**
 
 ### **Flutter Project Repo**
@@ -28,4 +38,3 @@
 - [**Kotlin**](https://github.com/malekaltaf/kotlin)
 
 ---
-
