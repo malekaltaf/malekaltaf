@@ -4,6 +4,8 @@
 
 - **Email**: *malekaltafn@gmail.com*
 - **Phone**: *+91-7048142829*
+- **LinkedIn**: [https://www.linkedin.com/in/malekaltaf/](https://www.linkedin.com/in/malekaltaf/)
+- **Blogging Website**: [https://malekaltaf.blogspot.com/](https://malekaltaf.blogspot.com/)
 
 ---
 
