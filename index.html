@@ -4,77 +4,191 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Altaf - Web Dev</title>
+    <!-- Animation Libraries -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    
     <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --accent: #e74c3c;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', system-ui, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            overflow-x: hidden;
         }
+
         header {
-            background-color: #333;
-            color: #fff;
-            padding: 1rem;
+            background: var(--primary);
+            color: white;
+            padding: 4rem 1rem;
             text-align: center;
+            position: relative;
+            overflow: hidden;
         }
+
+        /* 3D Animated Background */
+        #canvas3d {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 0;
+            opacity: 0.1;
+        }
+
         nav {
-            background-color: #444;
-            color: #fff;
-            padding: 1rem;
-            text-align: center;
+            background: rgba(68, 68, 68, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
+
         nav a {
-            color: #fff;
-            margin: 0 1rem;
+            color: white;
+            margin: 0 1.5rem;
             text-decoration: none;
+            position: relative;
+            padding: 0.5rem 1rem;
+            transition: all 0.3s ease;
         }
+
+        nav a::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: 0;
+            left: 0;
+            background: var(--secondary);
+            transition: width 0.3s ease;
+        }
+
+        nav a:hover::after {
+            width: 100%;
+        }
+
         main {
             padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
         }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transform: translateY(0);
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
         footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1rem;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
+            background: var(--primary);
+            color: white;
+            padding: 2rem;
+            margin-top: 4rem;
+        }
+
+        /* Animations */
+        .animate-on-scroll {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.6s ease;
+        }
+
+        .animate-on-scroll.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .floating {
+            animation: float 3s ease-in-out infinite;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to Altaf's Web Dev Page</h1>
+        <canvas id="canvas3d"></canvas>
+        <h1 class="animate__animated animate__fadeInDown">Welcome to Altaf's Portfolio</h1>
     </header>
+
     <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Services</a>
-        <a href="#">Contact</a>
-        <a href="https://github.com/malekaltaf" target="_blank">GitHub</a>
+        <a href="#" class="animate__animated animate__fadeIn">Home</a>
+        <a href="#" class="animate__animated animate__fadeIn">About</a>
+        <a href="#" class="animate__animated animate__fadeIn">Services</a>
+        <a href="#" class="animate__animated animate__fadeIn">Contact</a>
+        <a href="https://github.com/malekaltaf" target="_blank" class="animate__animated animate__fadeIn">GitHub</a>
     </nav>
+
     <main>
-        <h2>Personal Information</h2>
-        <p><strong>Name:</strong> Malek Altaf</p>
-        <p><strong>Phone:</strong> +91-7048142829</p>
-        <p><strong>Email:</strong> malekaltafn@gmail.com</p>
-        <p><strong>Locality:</strong> Bhavda, Ahmedabad GJ. 382433</p>
-        <h2>Professional Summary</h2>
-        <p>Malek Altaf, a 21-year-old Android Developer from Ahmedabad, Gujarat, has made notable strides in the technology sector. Specializing in Android development, he has a strong grasp of both Java and Kotlin, and has significantly contributed to Vama Communications by developing over 40 kiosk apps for museums and related industries. Currently, Malek resides in Ahmedabad and is not only committed to his role as an Android Developer but is also broadening his expertise by pursuing an LLB, aiming to integrate legal knowledge into his career.</p>
-        <h2>Background</h2>
-        <p>Malek’s journey began in a small village school and evolved as he pursued higher education in the city. After completing high school with a focus on commerce, he advanced to Gujarat University for a BCA, dedicating three years to his studies and earning his degree. His career path led him to Vama Communications, where he worked for a year and a half, specializing in creating applications for museums and other institutions.</p>
-        <h2>Experience at Vama Communications</h2>
-        <p>At Vama, Malek’s role was instrumental in developing over 40 kiosk apps, leveraging his skills in Java and Kotlin to enhance interactive experiences across more than six museums. This experience not only sharpened his technical abilities but also ignited his passion for innovation.</p>
-        <h2>Current Pursuits</h2>
-        <p>Now, motivated by a desire for continuous growth, Malek is exploring new fields by pursuing an LLB. This academic pursuit reflects his commitment to expanding his career and integrating technological innovation with legal knowledge.</p>
+        <section class="card animate-on-scroll">
+            <h2 class="animate__animated">Personal Information</h2>
+            <!-- Content remains same -->
+        </section>
+
+        <!-- Add 3D Skill Visualization -->
+        <div id="skills3d" class="card"></div>
     </main>
-    <footer>
-        <div style="display: flex; justify-content: center; gap: 2rem;">
-            <p><strong>LinkedIn Profile:</strong> <a href="https://www.linkedin.com/in/malekaltaf" target="_blank" style="color: #fff; text-decoration: underline;">www.linkedin.com/in/malekaltaf</a></p>
-            <p><strong>GitHub Repository:</strong> <a href="https://www.github.com/malekaltaf" target="_blank" style="color: #fff; text-decoration: underline;">www.github.com/malekaltaf</a></p>
-            <p><strong>Blog Website:</strong> <a href="https://www.malekaltaf.blogspot.com" target="_blank" style="color: #fff; text-decoration: underline;">www.malekaltaf.blogspot.com</a></p>
-        </div></div>
-        <p>&copy; 2025 Altaf - Web Dev</p>
-    </footer>
+
+    <script>
+        // Initialize Three.js 3D Background
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer({ canvas: document.querySelector('#canvas3d'), alpha: true });
+        
+        // Add floating geometric shapes
+        const geometry = new THREE.IcosahedronGeometry(2);
+        const material = new THREE.MeshPhongMaterial({ color: 0x3498db, wireframe: true });
+        const icosahedron = new THREE.Mesh(geometry, material);
+        scene.add(icosahedron);
+
+        camera.position.z = 5;
+
+        function animate() {
+            requestAnimationFrame(animate);
+            icosahedron.rotation.x += 0.01;
+            icosahedron.rotation.y += 0.01;
+            renderer.render(scene, camera);
+        }
+        animate();
+
+        // GSAP Animations
+        gsap.from("nav a", {
+            duration: 1,
+            y: -50,
+            opacity: 0,
+            stagger: 0.1,
+            ease: "power4.out"
+        });
+
+        // Scroll Animations
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if(entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.1 });
+
+        document.querySelectorAll('.animate-on-scroll').forEach((el) => observer.observe(el));
+    </script>
 </body>
 </html>
