@@ -66,3 +66,55 @@
 </div>
 
 </div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInLeft {
+  from { transform: translateX(-100px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(100px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0.9); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.tech-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  margin: 2px;
+  border-radius: 15px;
+  background: #3498db;
+  color: white;
+  font-size: 0.9em;
+  transition: transform 0.3s ease;
+}
+
+.tech-badge:hover {
+  transform: translateY(-2px);
+}
+
+progress {
+  border-radius: 4px;
+  background-color: #eee;
+}
+
+progress::-webkit-progress-value {
+  background: #2ecc71;
+  border-radius: 4px;
+}
+
+progress::-moz-progress-bar {
+  background: #2ecc71;
+  border-radius: 4px;
+}
+</style>
