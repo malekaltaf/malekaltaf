@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Altaf Malek - IT Administrator</title>
+    <style>
+        /* Global Styles */
+        :root {
+            --primary-color: #1e3a8a;
+            --secondary-color: #3b82f6;
+            --accent-color: #93c5fd;
+            --light-bg: #f8fafc;
+            --dark-text: #1e293b;
+            --light-text: #f1f5f9;
+            --border-radius: 8px;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f0f2f5;
+            color: var(--dark-text);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            background: white;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+        }
+        
+        /* Header Styles */
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: var(--light-text);
+            padding: 40px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header-content {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .profile-info {
+            flex: 2;
+        }
+        
+        .profile-picture {
+            flex: 1;
+            text-align: right;
+            margin-left: 20px;
+        }
+        
+        .profile-picture .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background-color: var(--accent-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            font-weight: bold;
+            color: var(--primary-color);
+            margin-left: auto;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        .name {
+            font-size: 40px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+        
+        .title {
+            font-size: 22px;
+            font-weight: 500;
+            margin-bottom: 20px;
+            color: var(--accent-color);
+        }
+        
+        .contact-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .contact-item i {
+            font-size: 18px;
+        }
+        
+        /* Main Content Styles */
+        main {
+            padding: 40px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        
+        section {
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--secondary-color);
+            color: var(--primary-color);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section-content {
+            padding-left: 5px;
+        }
+        
+        /* Experience Styles */
+        .experience-item {
+            margin-bottom: 25px;
+            position: relative;
+        }
+        
+        .experience-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+        
+        .experience-company {
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+        
+        .experience-duration {
+            font-size: 14px;
+            color: #64748b;
+            margin-bottom: 10px;
+            display: inline-block;
+            padding: 3px 10px;
+            background-color: #f1f5f9;
+            border-radius: 20px;
+        }
+        
+        .experience-location {
+            font-size: 14px;
+            color: #64748b;
+            margin-bottom: 10px;
+        }
+        
+        /* Education Styles */
+        .education-item {
+            margin-bottom: 20px;
+        }
+        
+        .education-degree {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+        
+        .education-school {
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+        
+        .education-board {
+            font-size: 14px;
+            color: #64748b;
+        }
+        
+        .education-duration {
+            font-size: 14px;
+            color: #64748b;
+            display: inline-block;
+            padding: 3px 10px;
+            background-color: #f1f5f9;
+            border-radius: 20px;
+            margin-left: 10px;
+        }
+        
+        /* Skills Styles */
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+        
+        .skill-category {
+            margin-bottom: 20px;
+        }
+        
+        .skill-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--primary-color);
+        }
+        
+        .skill-description {
+            font-size: 14px;
+            color: #334155;
+            line-height: 1.5;
+        }
+        
+        /* Language Skills */
+        .language-skills {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+        
+        .language-item {
+            text-align: center;
+            padding: 15px;
+            background-color: var(--light-bg);
+            border-radius: var(--border-radius);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        
+        .language-name {
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+        
+        .language-level {
+            font-size: 14px;
+            color: #64748b;
+        }
+        
+        /* Social Profiles */
+        .social-profiles {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .social-item {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            background-color: var(--light-bg);
+            border-radius: var(--border-radius);
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: var(--primary-color);
+        }
+        
+        .social-item:hover {
+            background-color: var(--secondary-color);
+            color: white;
+        }
+        
+        .social-icon {
+            margin-right: 10px;
+            font-size: 18px;
+        }
+        
+        /* Media Queries */
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .profile-picture {
+                margin: 0 auto 20px;
+            }
+            
+            .profile-picture .avatar {
+                margin: 0 auto;
+            }
+            
+            main {
+                grid-template-columns: 1fr;
+                padding: 30px 20px;
+            }
+            
+            .skills-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .language-skills {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* Fancy background elements */
+        .bg-shapes {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            z-index: 1;
+        }
+        
+        .shape {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+        }
+        
+        .shape-1 {
+            width: 150px;
+            height: 150px;
+            top: -75px;
+            right: -40px;
+        }
+        
+        .shape-2 {
+            width: 80px;
+            height: 80px;
+            bottom: 30px;
+            left: 10%;
+        }
+        
+        .shape-3 {
+            width: 200px;
+            height: 200px;
+            bottom: -100px;
+            right: 20%;
+            opacity: 0.05;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="bg-shapes">
+                <div class="shape shape-1"></div>
+                <div class="shape shape-2"></div>
+                <div class="shape shape-3"></div>
+            </div>
+            <div class="header-content">
+                <div class="profile-info">
+                    <h1 class="name">Malek Altaf</h1>
+                    <h2 class="title">IT Administrator</h2>
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span>+91-7048142829</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>malekaltafn@gmail.com</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>Bhavda, Ahmedabad GJ. 382433</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="profile-picture">
+                    <div class="avatar">MA</div>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="left-column">
+                <section class="experience">
+                    <h3 class="section-title"><i class="fas fa-briefcase"></i> Work Experience</h3>
+                    <div class="section-content">
+                        <div class="experience-item">
+                            <h4 class="experience-title">IT Administrator</h4>
+                            <p class="experience-company">Nektor Engineers and Project Consultants</p>
+                            <span class="experience-duration">January 2024 - Present</span>
+                            <p class="experience-location">Shivranjani Cross Road, Ahmedabad, GJ, IN 380015</p>
+                        </div>
+                        <div class="experience-item">
+                            <h4 class="experience-title">Android Developer</h4>
+                            <p class="experience-company">VAMA Communications Pvt Ltd</p>
+                            <span class="experience-duration">March 2022 – August 2023</span>
+                            <p class="experience-location">Shilp Corporate Park, Rajpath Rangoli Road, Iskon, Ahmedabad, GJ</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="education">
+                    <h3 class="section-title"><i class="fas fa-graduation-cap"></i> Education</h3>
+                    <div class="section-content">
+                        <div class="education-item">
+                            <h4 class="education-degree">LLB</h4>
+                            <p class="education-school">Vivekanand Law College</p>
+                            <p class="education-board">Gujarat University <span class="education-duration">2022 - 2025</span></p>
+                        </div>
+                        <div class="education-item">
+                            <h4 class="education-degree">BCA with Advance Java</h4>
+                            <p class="education-school">Lokmanya College</p>
+                            <p class="education-board">Gujarat University <span class="education-duration">2019 - 2022</span></p>
+                        </div>
+                        <div class="education-item">
+                            <h4 class="education-degree">12th Commerce</h4>
+                            <p class="education-school">HB Mehta, Odhav</p>
+                            <p class="education-board">HSEB <span class="education-duration">2017 - 2019</span></p>
+                        </div>
+                        <div class="education-item">
+                            <h4 class="education-degree">10th Primary</h4>
+                            <p class="education-school">CB Patel, Kanbha</p>
+                            <p class="education-board">GSEB <span class="education-duration">2007 - 2017</span></p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="social-profiles-section">
+                    <h3 class="section-title"><i class="fas fa-share-alt"></i> Social Profiles</h3>
+                    <div class="section-content">
+                        <div class="social-profiles">
+                            <a href="https://www.linkedin.com/in/malekaltaf" class="social-item">
+                                <i class="fab fa-linkedin social-icon"></i>
+                                <span>LinkedIn</span>
+                            </a>
+                            <a href="https://www.github.com/malekaltaf" class="social-item">
+                                <i class="fab fa-github social-icon"></i>
+                                <span>GitHub</span>
+                            </a>
+                            <a href="https://www.malekaltaf.blogspot.com" class="social-item">
+                                <i class="fas fa-blog social-icon"></i>
+                                <span>Blog</span>
+                            </a>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <div class="right-column">
+                <section class="technical-skills">
+                    <h3 class="section-title"><i class="fas fa-laptop-code"></i> Technical Skills</h3>
+                    <div class="section-content">
+                        <div class="skills-container">
+                            <div class="skill-category">
+                                <h4 class="skill-title">Operating Systems Expertise</h4>
+                                <p class="skill-description">Proficiency in Windows, Linux, and macOS environments.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Networking Knowledge</h4>
+                                <p class="skill-description">Understanding of LAN/WAN, DNS, DHCP, VPN, and firewalls.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Cloud Platforms</h4>
+                                <p class="skill-description">Experience with cloud services like AWS, Azure, and Google Cloud.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Virtualization</h4>
+                                <p class="skill-description">Proficiency in VMware, Hyper-V, or other virtualization platforms.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Scripting and Automation</h4>
+                                <p class="skill-description">Knowledge of PowerShell, Bash, Python for automating tasks.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Backup and Disaster Recovery</h4>
+                                <p class="skill-description">Managing data backups and implementing disaster recovery solutions.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Security Best Practices</h4>
+                                <p class="skill-description">Implementing firewalls, antivirus, and intrusion detection systems.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Server Management</h4>
+                                <p class="skill-description">Handling physical and virtual server environments.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Database Management</h4>
+                                <p class="skill-description">Basic understanding of SQL and NoSQL databases.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Active Directory Management</h4>
+                                <p class="skill-description">Administration of Active Directory and Group Policy.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="soft-skills">
+                    <h3 class="section-title"><i class="fas fa-user-tie"></i> Soft Skills</h3>
+                    <div class="section-content">
+                        <div class="skills-container">
+                            <div class="skill-category">
+                                <h4 class="skill-title">Problem-Solving</h4>
+                                <p class="skill-description">Ability to quickly troubleshoot and resolve IT issues.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Communication</h4>
+                                <p class="skill-description">Effective communication with non-technical staff.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Project Management</h4>
+                                <p class="skill-description">Experience managing IT infrastructure projects.</p>
+                            </div>
+                            <div class="skill-category">
+                                <h4 class="skill-title">Time Management</h4>
+                                <p class="skill-description">Ability to prioritize tasks and manage multiple issues simultaneously.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="languages">
+                    <h3 class="section-title"><i class="fas fa-language"></i> Languages</h3>
+                    <div class="section-content">
+                        <div class="language-skills">
+                            <div class="language-item">
+                                <h4 class="language-name">Gujarati</h4>
+                                <p class="language-level">Native</p>
+                            </div>
+                            <div class="language-item">
+                                <h4 class="language-name">Hindi</h4>
+                                <p class="language-level">Native</p>
+                            </div>
+                            <div class="language-item">
+                                <h4 class="language-name">English</h4>
+                                <p class="language-level">Professional</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
