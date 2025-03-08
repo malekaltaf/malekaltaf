@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Danny, a software engineer 💻 currently working at [Takeaway.com](https://takeaway.com) 🍲🥡
+I'm Altaf, a software engineer 💻 currently working at [NEPC.in](https://NEPC.in) 🍲🥡
 
 I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
 
