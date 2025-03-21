@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Altaf, a software engineer 💻 currently working at [Nektor Engineers and Project Consultants](https://NEPC.in) 🍲🥡
+I'm Altaf, a IT engineer 💻 currently working at [Nektor Engineers and Project Consultants](https://NEPC.in) 🍲🥡
 
-I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
+I have a passion for IT, Java, Linux, Virtualization, Networking and Administration.
 
 My current side project is [Markdown Profile](https://markdownprofile.com)
 
