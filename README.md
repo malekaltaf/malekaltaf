@@ -8,8 +8,8 @@ My current side project is [Markdown Profile](https://markdownprofile.com)
 
 [LinkedIn 💼](https://linkedin.com/in/malekaltaf)
 
-[Twitter 🐦](https://twitter.com/malekaltaf)
+[Blogger 🐦](https://malekaltaf.blogspot.com)
 
-[Website 🌍](https://malekaltaf.dev/)
+[Website 🌍](https://malekaltaf.github.io/malekaltaf)
 
 [Email 📬](mailto:malekaltafn@gmail.com)
