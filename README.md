@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Altaf, a software engineer 💻 currently working at [NEPC.in](https://NEPC.in) 🍲🥡
+I'm Altaf, a software engineer 💻 currently working at [Nektor Engineers and Project Consultants](https://NEPC.in) 🍲🥡
 
 I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
 
