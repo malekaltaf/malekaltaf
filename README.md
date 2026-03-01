@@ -43,7 +43,7 @@ I'm a passionate IT professional with a diverse skill set in IT administration a
 **Networking & IT:**
 <p>
     <a href="https://www.sonicwall.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.tdsynnex.com/na/us/advancedsolutions/wp-content/uploads/sites/52/2025/04/Sonicwall_Logo_RGB_Black_Orange.jpg" alt="sonicwall" width="40" height="40"/>
+    <img src="https://www.tdsynnex.com/na/us/advancedsolutions/wp-content/uploads/sites/52/2025/04/Sonicwall_Logo_RGB_Black_Orange.jpg" alt="sonicwall"/>
   </a>
 </p>
 
