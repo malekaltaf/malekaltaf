@@ -47,12 +47,6 @@ I'm a passionate IT professional with a diverse skill set in IT administration a
   </a>
 </p>
 
-### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malekaltaf&show_icons=true&theme=radical" alt="malekaltaf's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekaltaf&layout=compact&theme=radical" alt="malekaltaf's top languages" />
-</p>
-
 ### My Projects:
 
 Here are a few projects I've worked on:
