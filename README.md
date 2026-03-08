@@ -43,7 +43,7 @@ I'm a passionate IT professional with a diverse skill set in IT administration a
 **Networking & IT:**
 <p align="left">
   <a href="https://www.sonicwall.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sonicwall.svg" alt="sonicwall" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sonicwall.svg" alt="sonicwall" width="80" height="40"/>
   </a>
   <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fortinet.svg" alt="fortinet" width="40" height="40"/>
