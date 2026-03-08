@@ -36,7 +36,7 @@ I'm a passionate IT professional with a diverse skill set in IT administration a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
 </p>
 
@@ -44,8 +44,8 @@ I'm a passionate IT professional with a diverse skill set in IT administration a
 <p>
     <a href="https://www.sonicwall.com/" target="_blank" rel="noreferrer">
     <img src="https://www.tdsynnex.com/na/us/advancedsolutions/wp-content/uploads/sites/52/2025/04/Sonicwall_Logo_RGB_Black_Orange.jpg" alt="sonicwall" width="120" height="40"/>
-  </a>
-  <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
+    </a>
+    <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
     <img src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg" alt="fortinet" width="120" height="40"/>
   </a>
 </p>
