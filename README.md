@@ -45,6 +45,9 @@ I'm a passionate IT professional with a diverse skill set in IT administration a
     <a href="https://www.sonicwall.com/" target="_blank" rel="noreferrer">
     <img src="https://www.tdsynnex.com/na/us/advancedsolutions/wp-content/uploads/sites/52/2025/04/Sonicwall_Logo_RGB_Black_Orange.jpg" alt="sonicwall" width="120" height="40"/>
   </a>
+  <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg" alt="fortinet" width="120" height="40"/>
+  </a>
 </p>
 
 ### My Projects:
