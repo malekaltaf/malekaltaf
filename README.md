@@ -1,60 +1,194 @@
-### Hi there 👋, I'm Altaf Malek
+# Hi there 👋, I'm Altaf Malek
 
-I'm a passionate IT professional with a diverse skill set in IT administration and Android development. I enjoy building and maintaining robust, efficient, and innovative technological solutions.
+I'm a **Software Developer** passionate about building modern, reliable, and user-friendly applications across **Mobile, Web, and Desktop platforms**.
 
-- 🔭 I’m currently working at [Nektor Engineers and Project Consultants](https://NEPC.in)
-- 🌱 I’m currently learning more about cloud technologies and automation.
-- 👯 I’m looking to collaborate on open-source projects related to Android or IT infrastructure.
-- 🤔 I’m looking for help with advanced Android development techniques.
-- 💬 Ask me about anything related to IT, Java, Linux, Virtualization, Networking, and Administration.
-- 📫 How to reach me: [malekaltafn@gmail.com](mailto:malekaltafn@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to explore new technologies and gadgets.
+My primary interests include **Android development, Flutter, Kotlin, Java, Dart, web technologies, and Linux**. I enjoy turning ideas into practical applications, experimenting with new technologies, and continuously improving my development skills.
 
-### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/malekaltaf/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://malekaltaf.blogspot.com)
+* 🔭 Currently working at **Nektor Engineers and Project Consultants**
+* 🌱 Currently learning **Cloud Technologies, DevOps & Automation**
+* 💻 Interested in **Mobile, Web & Cross-Platform Development**
+* 📱 Building applications with **Android, Kotlin, Java & Flutter**
+* 🤝 Looking to collaborate on **Open Source Mobile, Flutter & Web projects**
+* 💬 Ask me about **Android, Flutter, Java, Kotlin, Dart, Linux, Web Development & APIs**
+* ⚡ Fun fact: I love exploring **new technologies, software and gadgets**
 
-### Languages and Tools:
+---
 
-**Mobile Development:**
+## 🚀 What I Do
+
+* 📱 **Mobile Development** — Android & Flutter
+* 🌐 **Web Development** — Frontend, Backend & REST APIs
+* 🎨 **UI/UX** — Building clean and intuitive application interfaces
+* 🗄️ **Database Development** — SQL, SQLite & Room
+* 🐧 **Linux & Servers** — Linux administration, virtualization & deployment
+* 🔧 **IT & Networking** — Networking, firewalls and infrastructure
+
+---
+
+## 🛠️ Languages & Tools
+
+### 📱 Mobile & Cross-Platform Development
+
 <p>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
   </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
   </a>
 </p>
 
-**Backend & Servers:**
+**Android:** Kotlin • Java • Jetpack Compose • Android SDK • Room • SQLite
+**Flutter:** Flutter • Dart • REST APIs • SQLite • MVVM • State Management
+
+---
+
+### 🌐 Web Development
+
 <p>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://wordpress.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="45" height="45"/>
   </a>
 </p>
 
-**Networking & IT:**
+**Frontend:** HTML • CSS • JavaScript
+**Backend:** PHP • REST APIs
+**CMS:** WordPress
+
+---
+
+### 🗄️ Databases & Backend
+
+<p>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.sqlite.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+  </a>
+</p>
+
+**Databases:** MySQL • SQLite • Room
+**APIs:** REST API • JSON • API Integration
+
+---
+
+### 🐧 Linux, Servers & DevOps
+
+<p>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  </a>
+</p>
+
+Linux • Ubuntu • Windows Server • Docker • Git • GitHub • Virtualization
+
+---
+
+## 📂 Featured Projects
+
+### 📱 Task Management Android App
+
+**Native Android application built with Kotlin and Jetpack Compose.**
+
+* Kotlin
+* Jetpack Compose
+* Room Database
+* Android Architecture Components
+* Local data persistence
+* Notifications
+* Modern Material UI
+
+🔗 **[View Project](https://github.com/malekaltaf/TaskManagementApp)**
+
+---
+
+### 📱 Flutter Applications
+
+A collection of Flutter projects focused on **clean architecture, REST APIs, local databases and modern UI development**.
+
+* Flutter & Dart
+* REST API integration
+* SQLite
+* CRUD applications
+* MVVM architecture
+* State management
+
+🔗 **[Explore my Flutter Projects](https://github.com/malekaltaf)**
+
+---
+
+### 🌐 Web Development Projects
+
+Web applications and experiments built using modern web technologies.
+
+**Technologies:** HTML • CSS • JavaScript • PHP • MySQL • WordPress
+
+🔗 **[Explore my Repositories](https://github.com/malekaltaf)**
+
+---
+
+## 📚 Currently Learning
+
+* ☁️ Cloud Computing
+* ⚙️ DevOps & Automation
+* 🐳 Docker & Containerization
+* 📱 Advanced Flutter Development
+* 🤖 Advanced Android Development
+* 🌐 Modern Web Development
+* 🔌 REST API & Backend Development
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
-  <a href="https://www.sonicwall.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sonicwall.svg" alt="sonicwall" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/malekaltaf/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
   </a>
-  <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fortinet.svg" alt="fortinet" width="40" height="40"/>
+  <a href="https://malekaltaf.blogspot.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="40">
   </a>
 </p>
 
-### My Projects:
+📧 **Email:** [malekaltafn@gmail.com](mailto:malekaltafn@gmail.com)
 
-Here are a few projects I've worked on:
+---
 
-- **[Task Management Android App](https://github.com/malekaltaf/TaskManagementApp)**: A native Android application developed using Kotlin and Jetpack Compose for managing daily tasks. The app features a clean UI, persistent storage with Room, and notifications.
-- **[Network Infrastructure Upgrade](https://github.com/malekaltaf/NetworkUpgradeProject)**: Led a project to upgrade the entire network infrastructure for a medium-sized business. This included installing and configuring new routers, switches, and firewalls, resulting in a 40% increase in network speed and reliability.
+## 💡 Developer Philosophy
 
-Check out my repositories for more projects!
+> **Build it. Break it. Learn from it. Improve it.**
+
+I enjoy learning by building real-world projects and exploring how different technologies can work together to create useful software.
+
+⭐ Feel free to explore my repositories and connect with me!
