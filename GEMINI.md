@@ -1,21 +1,25 @@
-# Project Overview
+## Project Overview
 
-This is a personal portfolio website for Altaf Malek, an IT professional with skills in IT administration and Android development. The website is built with plain HTML, CSS, and JavaScript, and it uses the Bootstrap framework for responsive design.
+This project is a personal portfolio website for Altaf Malek. It showcases his resume, portfolio, and contact information. The website is built using HTML, CSS, and JavaScript, with the Bootstrap framework for styling.
 
-The website consists of the following pages:
-*   **index.html**: The main landing page with a brief introduction and skills overview.
-*   **resume.html**: A page to display Altaf's resume.
-*   **portfolio.html**: A gallery of projects.
-*   **contact.html**: A contact form.
+## Key Files
 
-# Building and Running
+*   `index.html`: The main landing page of the website, providing a brief introduction and overview of skills.
+*   `resume.html`: Displays Altaf Malek's resume, including his work experience, education, and skills.
+*   `portfolio.html`: Showcases projects that Altaf Malek has worked on, with descriptions and images.
+*   `contact.html`: Provides a contact form and contact information for Altaf Malek.
+*   `style.css`: Contains the custom CSS for the website, including animations and styling for various elements.
+*   `script.js`: Contains JavaScript code for the website, including a fade-in effect on page load.
+*   `images/`: This directory contains images used in the portfolio section.
+
+## Building and Running
 
 This is a static website, so there is no build process. To run the website, simply open the `index.html` file in a web browser.
 
-# Development Conventions
+## Development Conventions
 
-The project uses standard HTML, CSS, and JavaScript. The code is not minified or bundled.
-
-*   **Styling**: The project uses Bootstrap for basic styling, with a custom `style.css` file for additional styles.
-*   **JavaScript**: The project uses jQuery for a simple fade-in animation on page load.
-*   **Dependencies**: The project relies on Bootstrap and jQuery, which are included via CDNs.
+*   **Website Status:** This folder is considered a website and must remain functional as a static site.
+*   **Version Control:** All changes must be managed using Git.
+*   **Change Logging:** Every change made must be recorded in `changes.txt` for reading/auditing purposes.
+*   **Styling:** Prefer Bootstrap 4.5.2 and custom Vanilla CSS in `style.css`.
+*   **Standard Tech:** HTML, CSS, and JavaScript.

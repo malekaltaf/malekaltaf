@@ -1,0 +1,10 @@
+[2026-03-08] Created projects.html with a square gallery layout for GitHub projects.
+[2026-03-08] Updated style.css with .project-square and .project-gallery classes for the new projects page.
+[2026-03-08] Updated navigation menu in index.html, resume.html, portfolio.html, and contact.html to include "My GitHub Projects".
+[2026-03-08] Updated GEMINI.md with new project instructions regarding git usage and change logging.
+[2026-03-08] Created changes.txt to track project modifications.
+[2026-09-20] Modernized website UI with dark glassmorphism aesthetic, vibrant neon gradients, and Plus Jakarta Sans typography.
+[2026-09-20] Added Three.js 3D interactive WebGL background with dynamic starfield and floating polyhedrons responsive to mouse parallax.
+[2026-09-20] Created an interactive 3D tech core on index.html with rotating orbital rings and mouse drag/rotation controls.
+[2026-09-20] Implemented dynamic 3D perspective tilt effects on cards and project elements across all pages.
+[2026-09-20] Modernized index.html, resume.html, portfolio.html, projects.html, and contact.html with modern navbar, glass cards, badges, and responsive layouts.
