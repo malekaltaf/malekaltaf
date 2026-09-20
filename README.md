@@ -158,6 +158,16 @@ Web applications and experiments built using modern web technologies.
 
 ---
 
+## 💼 Experience & Career Journey
+
+| Role | Company | Period | Focus Areas |
+| :--- | :--- | :--- | :--- |
+| **IT Administrator** | **Nektor Engineers and Project Consultants** | Jan 2024 – Oct 2025 | Infrastructure, Dell PowerEdge Servers, SonicWall Firewalls, Virtualization, SysAid |
+| **Android Developer** | **Vama Communications Pvt Ltd** | Mar 2022 – Aug 2023 | Native Android, Kotlin, Java, MVVM, Room DB, REST APIs |
+| **IT Support & Systems Associate** | **TechSol Infotech Solutions** | Jun 2021 – Feb 2022 | Desktop/Remote Support, Networking, Hardware/Software Troubleshooting, CCTV |
+
+---
+
 ## 📚 Currently Learning
 
 * ☁️ Cloud Computing
@@ -181,7 +191,10 @@ Web applications and experiments built using modern web technologies.
   </a>
 </p>
 
-📧 **Email:** [malekaltafn@gmail.com](mailto:malekaltafn@gmail.com)
+* 📞 **Phone:** [+91 7048142829](tel:7048142829)
+* 📧 **Email:** [malekaltafn@gmail.com](mailto:malekaltafn@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/malekaltaf](https://www.linkedin.com/in/malekaltaf/)
+* 📄 **Interactive Resume:** Check out [`resume.html`](resume.html) for detailed work history and technical credentials.
 
 ---
 
