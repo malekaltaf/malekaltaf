@@ -4,7 +4,7 @@ I'm a **Software Developer** passionate about building modern, reliable, and use
 
 My primary interests include **Android development, Flutter, Kotlin, Java, Dart, web technologies, and Linux**. I enjoy turning ideas into practical applications, experimenting with new technologies, and continuously improving my development skills.
 
-* 🔭 Currently working at **Nektor Engineers and Project Consultants**
+* 🔭 Currently working at **Wordsworth English Language Lab**
 * 🌱 Currently learning **Cloud Technologies, DevOps & Automation**
 * 💻 Interested in **Mobile, Web & Cross-Platform Development**
 * 📱 Building applications with **Android, Kotlin, Java & Flutter**
