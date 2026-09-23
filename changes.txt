@@ -8,3 +8,6 @@
 [2026-09-20] Created an interactive 3D tech core on index.html with rotating orbital rings and mouse drag/rotation controls.
 [2026-09-20] Implemented dynamic 3D perspective tilt effects on cards and project elements across all pages.
 [2026-09-20] Modernized index.html, resume.html, portfolio.html, projects.html, and contact.html with modern navbar, glass cards, badges, and responsive layouts.
+[2026-09-23] Added Python Scripting skill card (with fab fa-python icon) to index.html Technical Expertise section; changed skill grid from 3-col to 4-col layout.
+[2026-09-23] Added Python skill tag to index.html About Me quick-tags section.
+[2026-09-23] Added Python & Scripting subsection (Python 3, Shell Automation, Pandas/CSV, REST API) to resume.html Comprehensive Skills section.
