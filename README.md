@@ -180,7 +180,7 @@ Web applications and experiments built using modern web technologies.
 | :--- | :--- | :--- | :--- |
 | **IT Administrator** | **Nektor Engineers and Project Consultants** | Jan 2024 – Oct 2025 | Infrastructure, Dell PowerEdge Servers, SonicWall Firewalls, Virtualization, SysAid |
 | **Android Developer** | **Vama Communications Pvt Ltd** | Mar 2022 – Aug 2023 | Native Android, Kotlin, Java, MVVM, Room DB, REST APIs |
-| **IT Support & Systems Associate** | **TechSol Infotech Solutions** | Jun 2021 – Feb 2022 | Desktop/Remote Support, Networking, Hardware/Software Troubleshooting, CCTV |
+| **Tech Support Engineer** | **Wordsworth English Language Lab** | Jan 2026 – Oct 2026 | Desktop/Remote Support, Networking, Hardware/Software Troubleshooting, CCTV |
 
 ---
 
