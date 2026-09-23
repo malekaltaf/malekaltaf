@@ -2,14 +2,14 @@
 
 I'm a **Software Developer** passionate about building modern, reliable, and user-friendly applications across **Mobile, Web, and Desktop platforms**.
 
-My primary interests include **Android development, Flutter, Kotlin, Java, Dart, web technologies, and Linux**. I enjoy turning ideas into practical applications, experimenting with new technologies, and continuously improving my development skills.
+My primary interests include **Android development, Flutter, Kotlin, Java, Dart, Python, web technologies, and Linux**. I enjoy turning ideas into practical applications, experimenting with new technologies, and continuously improving my development skills.
 
 * 🔭 Currently working at **Wordsworth English Language Lab**
 * 🌱 Currently learning **Cloud Technologies, DevOps & Automation**
 * 💻 Interested in **Mobile, Web & Cross-Platform Development**
 * 📱 Building applications with **Android, Kotlin, Java & Flutter**
 * 🤝 Looking to collaborate on **Open Source Mobile, Flutter & Web projects**
-* 💬 Ask me about **Android, Flutter, Java, Kotlin, Dart, Linux, Web Development & APIs**
+* 💬 Ask me about **Android, Flutter, Java, Kotlin, Dart, Python, Linux, Web Development & APIs**
 * ⚡ Fun fact: I love exploring **new technologies, software and gadgets**
 
 ---
@@ -22,6 +22,7 @@ My primary interests include **Android development, Flutter, Kotlin, Java, Dart,
 * 🗄️ **Database Development** — SQL, SQLite & Room
 * 🐧 **Linux & Servers** — Linux administration, virtualization & deployment
 * 🔧 **IT & Networking** — Networking, firewalls and infrastructure
+* 🐍 **Python & Scripting** — Automation scripts, data processing & system utilities
 
 ---
 
@@ -115,6 +116,21 @@ Linux • Ubuntu • Windows Server • Docker • Git • GitHub • Virtualiza
 
 ---
 
+### 🐍 Python & Scripting
+
+<p>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  </a>
+</p>
+
+**Python 3** • Shell / Bash Automation • File & OS Utilities • Pandas / CSV Processing • REST API Calls
+
+---
+
 ## 📂 Featured Projects
 
 ### 📱 Task Management Android App
@@ -175,6 +191,7 @@ Web applications and experiments built using modern web technologies.
 * 🐳 Docker & Containerization
 * 📱 Advanced Flutter Development
 * 🤖 Advanced Android Development
+* 🐍 Python Scripting & Automation
 * 🌐 Modern Web Development
 * 🔌 REST API & Backend Development
 

@@ -11,3 +11,4 @@
 [2026-09-23] Added Python Scripting skill card (with fab fa-python icon) to index.html Technical Expertise section; changed skill grid from 3-col to 4-col layout.
 [2026-09-23] Added Python skill tag to index.html About Me quick-tags section.
 [2026-09-23] Added Python & Scripting subsection (Python 3, Shell Automation, Pandas/CSV, REST API) to resume.html Comprehensive Skills section.
+[2026-09-23] Updated README.md to include Python in intro, What I Do section, new Python & Scripting tools section with devicon badges, and Currently Learning list.
