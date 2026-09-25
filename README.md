@@ -212,6 +212,8 @@ Web applications and experiments built using modern web technologies.
 * 📞 **Phone:** [+91 7048142829](tel:7048142829)
 * 📧 **Email:** [malekaltafn@gmail.com](mailto:malekaltafn@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/malekaltaf](https://www.linkedin.com/in/malekaltaf/)
+* 🌐 **Portfolio:** [malekaltaf.kesug.com](https://malekaltaf.kesug.com/)
+* 🐙 **GitHub:** [github.com/malekaltaf](https://github.com/malekaltaf)
 * 📄 **Interactive Resume:** Check out [`resume.html`](resume.html) for detailed work history and technical credentials.
 
 ---
