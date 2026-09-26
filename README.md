@@ -4,7 +4,7 @@ I'm a **Software Developer** passionate about building modern, reliable, and use
 
 My primary interests include **Android development, Flutter, Kotlin, Java, Dart, Python, web technologies, and Linux**. I enjoy turning ideas into practical applications, experimenting with new technologies, and continuously improving my development skills.
 
-* 🔭 Currently working at **Wordsworth English Language Lab**
+* 🔭 Currently working as **Tech Support Engineer** at **Wordsworth ELT**
 * 🌱 Currently learning **Cloud Technologies, DevOps & Automation**
 * 💻 Interested in **Mobile, Web & Cross-Platform Development**
 * 📱 Building applications with **Android, Kotlin, Java & Flutter**
@@ -176,12 +176,28 @@ Web applications and experiments built using modern web technologies.
 
 ## 💼 Experience & Career Journey
 
-| Role | Company | Period | Focus Areas |
-| :--- | :--- | :--- | :--- |
-| **Tech Support Engineer** | **Wordsworth English Language Lab** | Jan 2026 – Oct 2026 | Desktop/Remote Support, Networking, Hardware/Software Troubleshooting, CCTV |
-| **IT Administrator** | **Nektor Engineers and Project Consultants** | Jan 2024 – Oct 2025 | Infrastructure, Dell PowerEdge Servers, SonicWall Firewalls, Virtualization, SysAid |
-| **Android Developer** | **Vama Communications Pvt Ltd** | Mar 2022 – Aug 2023 | Native Android, Kotlin, Java, MVVM, Room DB, REST APIs |
+### **Tech Support Engineer** | **Words Worth ELT**
+*Jan 2026 – Oct 2026*
+* Provided comprehensive desktop and remote support, resolving hardware and software issues to minimize downtime.
+* Managed networking operations and CCTV infrastructure across the organization.
+* Automated diagnostic tasks and credential management using shell scripting.
 
+### **IT Administrator** | **Nektor Engineers and Project Consultants**
+*Jan 2024 – Oct 2025*
+* Administered Dell PowerEdge Servers and configured SonicWall Firewalls to secure organizational data and infrastructure.
+* Managed virtualization and deployment environments, utilizing SysAid for systematic IT troubleshooting and resolution.
+* Maintained Linux servers and deployed scripts to monitor system health and network reliability.
+
+### **Android Developer** | **Vama Communications Pvt Ltd**
+*Mar 2022 – Aug 2023*
+* Built native Android applications using Kotlin and Java, implementing MVVM architecture for scalable and maintainable codebases.
+* Integrated REST APIs and engineered robust local data persistence leveraging Room DB.
+
+---
+
+## 🎓 Education
+
+* **Bachelor of Computer Applications (BCA)**
 
 ---
 
@@ -199,15 +215,6 @@ Web applications and experiments built using modern web technologies.
 ---
 
 ## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/malekaltaf/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
-  </a>
-  <a href="https://malekaltaf.blogspot.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Blog" height="40">
-  </a>
-</p>
 
 * 📞 **Phone:** [+91 7048142829](tel:7048142829)
 * 📧 **Email:** [malekaltafn@gmail.com](mailto:malekaltafn@gmail.com)
