@@ -17,3 +17,5 @@
 [2026-10-04] Added 'Mobile Developer Focus - Native Android & Flutter' section with comparison table to README.md. No existing content removed.
 
 [2026-10-04] Synced README.md Featured Projects and portfolio.html projects grid with sitemap.md (16 public repos grouped: portfolio, games, web, business tools, Flutter, Android, forks). Removed inaccurate 'Task Management Android App' card (wrongly linked to flutter_sqflite).
+
+[2026-10-04] Mobile-first repositioning (Android & Flutter): index.html hero/about/skills reordered, IT merged into one Systems card; resume.html retitled, new Mobile Skills + Projects sections, added Words Worth ELT job, trimmed IT bullets/skills, removed grades; projects.html renamed 'Web & Games', added Employee_DPR, fixed accented chars; nav link renamed on all pages; contact.html intro updated; page titles/meta updated; README.md restructured (mobile focus first, condensed other skills, rewritten experience and learning).
