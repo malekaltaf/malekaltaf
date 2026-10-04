@@ -15,3 +15,5 @@
 [2026-09-25] Added Portfolio Website and GitHub links from links.txt to README.md Let's Connect section.
 [2026-10-04] Repositioned index.html for Mobile (Native Android & Flutter) developer roles: updated title, added meta description, hero badge/subtitle, mobile-focus About paragraph, Flutter & MVVM skill tags, and new Flutter Development skill card. No existing content removed.
 [2026-10-04] Added 'Mobile Developer Focus - Native Android & Flutter' section with comparison table to README.md. No existing content removed.
+
+[2026-10-04] Synced README.md Featured Projects and portfolio.html projects grid with sitemap.md (16 public repos grouped: portfolio, games, web, business tools, Flutter, Android, forks). Removed inaccurate 'Task Management Android App' card (wrongly linked to flutter_sqflite).

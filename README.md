@@ -159,44 +159,58 @@ I specialize in building **production-ready mobile apps**, both **native Android
 
 ## 📂 Featured Projects
 
-### 📱 Task Management Android App
+### 🧑‍💻 Portfolio
 
-**Native Android application built with Kotlin and Jetpack Compose.**
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [malekaltaf](https://github.com/malekaltaf/malekaltaf) | Personal portfolio site (IT admin + Android dev) | HTML | [Visit](https://malekaltaf.github.io/malekaltaf/) |
 
-* Kotlin
-* Jetpack Compose
-* Room Database
-* Android Architecture Components
-* Local data persistence
-* Notifications
-* Modern Material UI
+### 🎮 Games & Quizzes
 
-🔗 **[View Project](https://github.com/malekaltaf/TaskManagementApp)**
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [Pok-Chess-Evolution](https://github.com/malekaltaf/Pok-Chess-Evolution) | Browser chess variant | HTML | [Play](https://malekaltaf.github.io/Pok-Chess-Evolution/) |
+| [Pok-Quiz-Name-Type](https://github.com/malekaltaf/Pok-Quiz-Name-Type) | Browser quiz game | HTML | [Play](https://malekaltaf.github.io/Pok-Quiz-Name-Type/) |
 
----
+### 🌐 Web Projects
 
-### 📱 Flutter Applications
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [dinoprehistoric](https://github.com/malekaltaf/dinoprehistoric) | Static dinosaur site: history, classification, galleries | HTML | [Visit](https://malekaltaf.github.io/dinoprehistoric/) |
+| [Vigenere-Cipher](https://github.com/malekaltaf/Vigenere-Cipher) | Python Vigenère cipher: CLI + PyScript web version | Python / HTML | — |
 
-A collection of Flutter projects focused on **clean architecture, REST APIs, local databases and modern UI development**.
+### 🗂️ Business Tools
 
-* Flutter & Dart
-* REST API integration
-* SQLite
-* CRUD applications
-* MVVM architecture
-* State management
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [Employee_DPR](https://github.com/malekaltaf/Employee_DPR) | Client-side employee timesheet / Daily Progress Report app | JavaScript | [Open](https://malekaltaf.github.io/Employee_DPR/) |
+| [EmployeeTimeSheet](https://github.com/malekaltaf/EmployeeTimeSheet) | Timesheet app | PHP | — |
 
-🔗 **[Explore my Flutter Projects](https://github.com/malekaltaf)**
+### 📱 Mobile — Flutter
 
----
+| Project | Description |
+|---|---|
+| [materic_terminal](https://github.com/malekaltaf/materic_terminal) | Terminal app |
+| [MVVM_Flutter](https://github.com/malekaltaf/MVVM_Flutter) | MVVM architecture practice |
+| [flutter_sqflite](https://github.com/malekaltaf/flutter_sqflite) | User management with SQLite |
+| [Flutter_REST](https://github.com/malekaltaf/Flutter_REST) | Product loading page via REST API |
 
-### 🌐 Web Development Projects
+### 🤖 Mobile — Android
 
-Web applications and experiments built using modern web technologies.
+| Project | Description |
+|---|---|
+| [kotlin](https://github.com/malekaltaf/kotlin) | Kotlin practice |
+| [android_samples](https://github.com/malekaltaf/android_samples) | Sample code |
+| [android_projects](https://github.com/malekaltaf/android_projects) | Project collection |
 
-**Technologies:** HTML • CSS • JavaScript • PHP • MySQL • WordPress
+### 🍴 Forks
 
-🔗 **[Explore my Repositories](https://github.com/malekaltaf)**
+| Project | Description |
+|---|---|
+| [pulse-sms-android](https://github.com/malekaltaf/pulse-sms-android) | Cross-device SMS app for Android (Kotlin) |
+| [public-apis](https://github.com/malekaltaf/public-apis) | Curated list of free APIs |
+
+🔗 **[Explore all repositories](https://github.com/malekaltaf?tab=repositories)**
 
 ---
 
