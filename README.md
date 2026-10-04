@@ -131,6 +131,32 @@ Linux • Ubuntu • Windows Server • Docker • Git • GitHub • Virtualiza
 
 ---
 
+## 📲 Mobile Developer Focus — Native Android & Flutter
+
+I specialize in building **production-ready mobile apps**, both **native Android** and **cross-platform Flutter (Android & iOS)**.
+
+| Area | Native Android | Flutter |
+|------|----------------|---------|
+| **Language** | Kotlin • Java | Dart |
+| **UI** | Jetpack Compose • XML Layouts • Material 3 | Widgets • Material / Cupertino • Custom Animations |
+| **Architecture** | MVVM • Clean Architecture • Repository Pattern | MVVM • Clean Architecture • Repository Pattern |
+| **State Management** | ViewModel • LiveData • StateFlow | Provider • Riverpod • BLoC |
+| **Local Storage** | Room • SQLite • DataStore | Sqflite • Hive • SharedPreferences |
+| **Networking** | Retrofit • OkHttp • REST APIs | http • Dio • REST APIs & JSON |
+| **Async** | Kotlin Coroutines • Flow | Futures • Streams • async/await |
+| **Platform** | Android SDK • Notifications • WorkManager | Platform Channels • Plugins |
+| **Tooling** | Android Studio • Gradle • Git | Flutter SDK • Android Studio / VS Code • Git |
+
+**What I bring to a mobile team:**
+
+* 📱 Building apps end-to-end — from UI design to data layer and Play Store-ready builds
+* 🧱 Writing maintainable code with MVVM and clean architecture
+* 🔌 Integrating REST APIs with robust error handling and offline-first caching
+* ⚡ Smooth, responsive UI with Jetpack Compose and Flutter widgets
+* 🛠️ Strong IT/Linux background for debugging, deployment and backend understanding
+
+---
+
 ## 📂 Featured Projects
 
 ### 📱 Task Management Android App
