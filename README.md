@@ -159,7 +159,7 @@ I specialize in building **production-ready mobile apps**, both **native Android
 * Integrated REST APIs with backend engineers, focusing on performance and stability.
 
 ### **Tech Support Engineer** | **Words Worth ELT**
-*Jan 2026 – Oct 2026*
+*Jan 2026 – October 2026*
 * Desktop, remote and network support; automated diagnostics with shell scripting.
 
 ### **IT Administrator** | **Nektor Engineers and Project Consultants**
