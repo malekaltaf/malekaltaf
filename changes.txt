@@ -23,3 +23,4 @@
 [2026-10-04] Added one-page ATS-friendly resume PDF (Altaf_Malek_Resume.pdf) generated from resume-print.html via Edge headless; added Download PDF button on resume.html.
 [2026-10-04] Words Worth ELT end date written as 'October 2026' in resume.html, resume-print.html, README.md; PDF regenerated.
 [2026-10-04] Removed Bachelor of Laws (LLB) from resume-print.html and regenerated Altaf_Malek_Resume.pdf.
+[2026-10-18 13:20:38] Rewrote README.md with modern clean design — removed duplicate/clutter sections, consolidated tech stack table, merged project tables, added badge links in centered header, tightened overall layout.
